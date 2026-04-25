@@ -1,0 +1,28 @@
+{
+  "slug": "customer-acquisition-bible",
+  "title": "The 2026 Customer Acquisition Bible",
+  "fileLabel": "2026 Customer Acquisition Bible",
+  "hook": "The synthesis of the 2026 paid acquisition library. Meta, Google, TikTok, low-ticket funnels, SaaS funnels, all in one tactical reference with cross-channel attribution, blended CAC math, AI agents, and 90-day launch plans for SaaS, professional services, and local businesses on $500 to $10,000 monthly budgets.",
+  "benefits": [
+    "Channel mix decision tree by vertical and budget. The 5x5 grid of channel allocation for SaaS, professional services, and local businesses across budgets from $500 to $10,000 monthly.",
+    "Cross-channel attribution stack: server-side, GCLID + ttclid + fbclid capture, Marketing Mix Modeling (MMM), incrementality testing, first-party data acquisition, modeled conversions reconciliation.",
+    "The acquisition math across all channels: blended CAC, payback period by tier, LTV by vertical, NRR engineering, and the breakeven calculator for paid acquisition stacks.",
+    "AI agents in 2026 acquisition: voice agents for lead qualification, AI lead-scoring, AI ad creative production, AI in outbound. What works, what does not, where to start.",
+    "Three audience swimlane playbooks (SaaS / professional services / local) condensed into one-page references with channel mix, budget split, creative cadence, compliance, and KPI targets.",
+    "The compliance master list: HIPAA, California SB 37 for attorneys, FTC Click-to-Cancel state-level, Stripe chargeback rules, state bar fitness, Meta + Google + TikTok 2026 enforcement updates.",
+    "The 90-day launch plan: week 1 setup, weeks 2 to 4 launch, month 2 scale, month 3 refine. With weekly checklist, KPI targets at each milestone, and the kill rules.",
+    "The 15 most common 2026 acquisition failures and the fix for each, drawn from across the five-channel library."
+  ],
+  "squeezeBullets": [
+    "Channel mix decision tree by vertical and budget. The 5x5 grid for SaaS, services, and local on $500 to $10K budgets",
+    "Cross-channel attribution stack: server-side, GCLID + ttclid + fbclid capture, MMM, incrementality testing",
+    "Acquisition math across all channels: blended CAC, payback period by tier, LTV by vertical, NRR engineering"
+  ],
+  "description": "The 2026 paid acquisition library has five operating manuals: P26 Meta Ads, P27 Google Ads, P28 TikTok Ads, P29 Low-Ticket Funnels, P30 SaaS Customer Acquisition. Each one is the tactical reference for its surface. This bible is the synthesis: how the five fit together, where they overlap, where they substitute, and how to build a coherent acquisition stack across SaaS, professional services, and local businesses in 2026.\n\nWhat changed in the last twelve months that makes a synthesis necessary:\n\nMeta deployed Andromeda + Adaptive Ranking. Google retired DSA in favor of AI Max. TikTok averted a US ban via the USDS Joint Venture. iOS attribution windows narrowed to 7-day click + 1-day view. Stripe added a $15 dispute counter-fee. The FTC Click-to-Cancel rule was vacated then reissued. The Amazon Prime $2.5 billion settlement reset subscription clarity expectations. AI agents moved from novelty to operational layer in lead qualification and outbound. NRR became part of the acquisition conversation, not just retention. Multi-channel attribution became measurably harder, and incrementality testing became the only honest way to compare channel ROAS.\n\nNo single channel works in isolation in 2026. The operator who runs Meta alone misses the high-intent search demand that Google captures. The operator who runs Google alone misses the awareness cycle that TikTok and Meta build. The operator who runs paid social alone misses the retention engine that the email funnel powers.\n\nThis bible is that synthesis. Eight parts, all tactical, all built for solo founders, in-house growth operators, and agency builders running paid acquisition stacks across SaaS, professional services, and local businesses on real budgets between $500 and $10,000 per month.\n\nPart 1, The 2026 Customer Acquisition Reality (cross-channel).\n\nPart 2, Channel Mix Decision Tree by Vertical x Budget. The 5x5 grid of allocation.\n\nPart 3, Cross-Channel Attribution Stack. Server-side. GCLID + ttclid + fbclid. MMM. Incrementality. First-party data.\n\nPart 4, The Acquisition Math Across All Channels. Blended CAC, payback, LTV, NRR.\n\nPart 5, AI Agents in 2026 Acquisition. Voice qualification, lead scoring, creative production.\n\nPart 6, The Three Audience Swimlanes. One-page references for SaaS, professional services, local.\n\nPart 7, The Compliance Master List.\n\nPart 8, The 90-Day Launch Plan + 15 Common 2026 Failures.\n\nIncluded as a printable PDF and a duplicatable Notion reference.",
+  "emailSubject": "Your 2026 Customer Acquisition Bible is ready",
+  "githubUrl": "https://github.com/AI-BrandFactory/customer-acquisition-bible",
+  "notionUrl": "https://massiveimpact.notion.site/The-2026-Customer-Acquisition-Bible-34cfb27e66348170b9b5e763f342f8b4",
+  "notionIcon": "📖",
+  "isPublished": true,
+  "githubRepo": "customer-acquisition-bible"
+}
